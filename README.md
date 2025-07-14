@@ -42,15 +42,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umarulfiddin&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarulfiddin&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 - 📧 Email: [umarul.fdd@gmail.com](mailto:umarul.fdd@gmail.com)
