@@ -1,52 +1,63 @@
-<h1 align="center">Hi 👋, I'm Umarul Fiddin</h1>
-<h3 align="center">DevOps Engineer | Infrastructure Automation Enthusiast | Open Source Learner</h3>
+# 👋 Hello, I'm Umarul Fiddin
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umarulfiddin&label=Profile%20views&color=0e75b6&style=flat" alt="umarulfiddin" />
-</p>
+**DevOps Engineer | Cloud Specialist | Automation Enthusiast**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 💼 I specialize in **infrastructure automation**, **CI/CD**, and **containerization**
-- 🔭 Currently working on **cloud-native environments**, **self-hosted apps**, and **private DevOps platforms**
-- 🌱 Constantly exploring **Kubernetes**, **GitOps**, and **observability tools**
-- 🧠 Motto: *Automate everything that should be automated*
+I'm a passionate DevOps professional with expertise in building, deploying, and maintaining scalable and reliable infrastructure. My goal is to bridge the gap between development and operations while implementing best practices in CI/CD, infrastructure as code, and cloud technologies.
 
----
+## 🛠 Tech Stack
 
-### 🛠️ My Tech Toolbox
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-#### 🔧 Infrastructure & Orchestration
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/>
-</p>
+### 🛠 DevOps Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
-#### 🛠️ DevOps & CI/CD
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
-</p>
+### 📝 Scripting & Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-#### ☁️ Cloud & Platform
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
-</p>
+### 🗃️ Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
----
+## 📈 GitHub Stats
 
-### 📫 Let's Connect
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=umarulfiddin&show_icons=true&theme=radical)
 
-- 📧 Email: [umarul.fdd@gmail.com](mailto:umarul.fdd@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/umarulfiddin](https://linkedin.com/in/umarulfiddin)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umarulfiddin&layout=compact&theme=radical)
 
----
+## 🔥 Recent Projects
 
-_“Infrastructure should be invisible but reliable.”_
+- **Infra-as-Code Framework**: Terraform modules for multi-cloud deployment
+- **Kubernetes Operator**: Custom operator for automated application scaling
+- **CI/CD Pipeline**: GitOps-based deployment pipeline with ArgoCD
+- **Monitoring Stack**: Cloud-native observability solution
+
+## 📝 Latest Blog Posts
+
+<!-- Replace with your actual blog posts -->
+- [5 Best Practices for Secure DevOps Pipelines](https://medium.com/@yourhandle)
+- [Kubernetes Networking Deep Dive](https://medium.com/@yourhandle)
+- [Cost Optimization Strategies in AWS](https://medium.com/@yourhandle)
+
+## 💬 Let's Connect
+
+I'm always open to discussing DevOps, cloud technologies, and automation. Feel free to reach out!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
