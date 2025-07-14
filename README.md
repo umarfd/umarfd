@@ -37,9 +37,9 @@ I'm a passionate DevOps professional with expertise in building, deploying, and 
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=umarulfiddin&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=umarfd&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umarulfiddin&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umarfd&layout=compact&theme=radical)
 
 ## 🔥 Recent Projects
 
